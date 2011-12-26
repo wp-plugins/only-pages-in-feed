@@ -9,13 +9,17 @@ Remove all blog posts from site's RSS feeds, leaving only Pages.
 
 == Description ==
 
-'Only Pages in Feed' is a little plugin that modifies WordPress RSS feeds to exclude all 'Posts' types and show only 'Pages' in it. Useful for those that use WordPress as a CMS.
+'Only Pages in Feed' is a little plugin that modifies WordPress RSS feed to exclude all 'Post' types and show only 'Pages' in it. So if you are using WordPress as a CMS and want only Pages to appear in your site feed, this plugin is for you.
 
-The plugin has no configure option. Just activate it, and you are good to go. Deactivating the plugin restores RSS feeds to their default state.
+The plugin needs no configuration. Just activate it, and you are good to go. Deactivating the plugin restores RSS feeds to their default state.
+
+= Plugin Page =
+
+SumTips ([http://sumtips.com/2011/12/include-page-custom-post-type-wordpress-feed.html](http://sumtips.com/wp-page-in-feed))
 
 == Installation ==
 
-1. Upload the 'only-pages-in-feed folder' to the '/wp-content/plugins/' directory
+1. Upload the 'only-pages-in-feed' folder to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
@@ -24,7 +28,7 @@ The plugin has no configure option. Just activate it, and you are good to go. De
 
 If you're using Feedburner you'll have to wait until your updated feed is picked up by Feedburner. This isn't immediate so give it a few hours.
 
-= How do I change number of pages in feed?
+= How do I change number of pages in feed? =
 
 Just like blog posts, number of pages in feed are also controlled from 'Reading Settings' in WordPress dashboard.
 
